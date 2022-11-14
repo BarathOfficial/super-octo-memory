@@ -1,0 +1,49 @@
+html{
+    height:100%;
+    background-color: #393E46;
+}
+
+.start-button{
+    background-color: #393E46;
+    border: none;
+    color:#4ECCA3;
+    font-family:'lobster',cursive;
+    font-size: 8rem;
+}
+
+.player-text{
+    color:#4ECCA3;
+    font-size: 2rem;
+    font-family: 'indie flower',cursive;
+}
+
+.container{
+    text-align: center;
+}
+
+.player{
+    margin: 10px 10px 10px 10px;
+    text-align: center;
+    display: inline-block;
+}
+
+.dice{
+    width: 80%;
+}
+
+footer{
+    margin: 20px auto auto auto;
+    text-align: center;
+    color: white;
+    font-family: 'indie flower', cursive;
+}
+
+.display{
+    font-family: 'lobster', cursive;
+    font-size: 4rem;
+    color: #4ECCA3;
+}
+
+.disp-hide{
+    visibility: hidden;
+}
